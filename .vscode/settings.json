@@ -1,4 +1,4 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "/Users/linzhitao/.pyenv/shims/python"
+    "python.pythonPath": "/Users/zhitao/.pyenv/shims/python"
 }

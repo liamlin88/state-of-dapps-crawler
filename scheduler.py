@@ -3,7 +3,7 @@ import time
 import subprocess
 
 def echo():
-    print(time.strftime("%Y-%m-%d %H:%M"))
+    print(time.strftime("%y-%m-%d %h:%m"))
 def crawl():
     subprocess.call(['./crawl.sh'])
 
